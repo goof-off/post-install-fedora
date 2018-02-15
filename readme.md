@@ -19,7 +19,7 @@
 - Mozilla Firefox
 - Google Chrome
 - Zsh (Powerline fonts, OhMyZsh)
-
+- Htop
 
 # Todo
 - Visual Studio Code

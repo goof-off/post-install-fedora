@@ -38,6 +38,9 @@ sudo dnf install qbittorrent
 
 echo "Instalacao concluida do qbittorrent"
 
+# Htop -----------------------------------------------------------------------------
+
+sudo dnf install htop
 
 # Google Chrome -----------------------------------------------------------------------------
 
@@ -150,6 +153,10 @@ sudo dnf install amrnb amrwb faad2 flac ffmpeg gpac-libs lame libfc14audiodecode
 
 # MySQL ----------------------------------------------------------------------------
 # https://www.vivaolinux.com.br/artigo/Apache-PHP-MariaDB-e-PhpMyAdmin-no-Fedora-27
+
+
+# MongoDB ----------------------------------------------------------------------------
+# sudo dnf install mongodb mongodb-server
 
 # PhpUnit ----------------------------------------------------------------------------
 
